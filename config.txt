@@ -1,0 +1,5 @@
+{
+  "BASE_FOLDER": "GoogleDrive",
+  "APP_FOLDER": "_cloudifier_data/09_tests/_full_conv"
+
+}
